@@ -1,0 +1,8 @@
+# Templates #
+#############
+test/template
+
+# Node Package Manager #
+########################
+npm-debug.log
+node_modules

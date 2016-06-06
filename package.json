@@ -1,0 +1,28 @@
+{
+  "name": "fcc-advanced-algos",
+  "version": "0.0.0",
+  "description": "Advanced algorithm scripting, complete with unit tests",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test -R spec --recursive",
+    "test-watch": "mocha test -R spec --recursive --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eddowh/fcc-advanced-algos"
+  },
+  "keywords": [
+    "freecodecamp",
+    "javascript",
+    "mocha",
+    "algorithms"
+  ],
+  "author": "Eddo W. Hintoso <eddo.hintoso@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.5.3",
+    "unit.js": "^2.0.0"
+  }
+}
