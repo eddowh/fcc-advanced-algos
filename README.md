@@ -1,6 +1,6 @@
 # Table of Contents
 
-* [ ] Validate US Telephone Numbers
+* [x] [`telephoneCheck.js`](./src/telephoneCheck.js): Validate US Telephone Numbers
 * [ ] Symmetric Difference
 * [ ] Exact Change
 * [ ] Inventory Update
