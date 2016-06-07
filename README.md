@@ -3,7 +3,7 @@
 * [x] [`telephoneCheck.js`](./src/telephoneCheck.js): Validate US Telephone Numbers
 * [x] [`sym.js`](./src/sym.js): Symmetric Difference
 * [x] [`checkCashRegister.js`](./src/checkCashRegister.js): Exact Change
-* [ ] Inventory Update
+* [x] [`updateInventory.js`](./src/updateInventory.js): Inventory Update
 * [ ] No repeats please
 * [ ] Friendly Date Ranges
 * [ ] Make a Person
