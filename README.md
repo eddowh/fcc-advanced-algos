@@ -2,7 +2,7 @@
 
 * [x] [`telephoneCheck.js`](./src/telephoneCheck.js): Validate US Telephone Numbers
 * [x] [`sym.js`](./src/sym.js): Symmetric Difference
-* [ ] Exact Change
+* [x] [`checkCashRegister.js`](./src/checkCashRegister.js): Exact Change
 * [ ] Inventory Update
 * [ ] No repeats please
 * [ ] Friendly Date Ranges
