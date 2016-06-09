@@ -20,7 +20,7 @@
     "algorithms"
   ],
   "author": "Eddo W. Hintoso <eddo.hintoso@gmail.com>",
-  "license": "ISC",
+  "license": "Unlicense",
   "devDependencies": {
     "benchmark": "^2.1.0",
     "mocha": "^2.5.3",
