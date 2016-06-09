@@ -4,7 +4,7 @@
 * [x] [`sym.js`](./src/sym.js): Symmetric Difference
 * [x] [`checkCashRegister.js`](./src/checkCashRegister.js): Exact Change
 * [x] [`updateInventory.js`](./src/updateInventory.js): Inventory Update
-* [ ] No repeats please
+* [x] [`permAlone.js`](./src/permAlone.js): No repeats please
 * [ ] Friendly Date Ranges
 * [ ] Make a Person
 * [ ] Map the Debris
