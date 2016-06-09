@@ -5,7 +5,7 @@
 * [x] [`checkCashRegister.js`](./src/checkCashRegister.js): Exact Change
 * [x] [`updateInventory.js`](./src/updateInventory.js): Inventory Update
 * [x] [`permAlone.js`](./src/permAlone.js): No repeats please
-* [ ] Friendly Date Ranges
+* [x] [`makeFriendlyDates.js`](./src/makeFriendlyDates.js): Friendly Date Ranges
 * [ ] Make a Person
 * [ ] Map the Debris
 * [ ] Pairwise
