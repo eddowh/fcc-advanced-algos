@@ -6,7 +6,7 @@
 * [x] [`updateInventory.js`](./src/updateInventory.js): Inventory Update
 * [x] [`permAlone.js`](./src/permAlone.js): No repeats please
 * [x] [`makeFriendlyDates.js`](./src/makeFriendlyDates.js): Friendly Date Ranges
-* [ ] Make a Person
+* [x] [`Person.js`](./src/Person.js): Make a Person
 * [ ] Map the Debris
 * [ ] Pairwise
 
