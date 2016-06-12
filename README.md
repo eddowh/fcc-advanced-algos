@@ -7,7 +7,7 @@
 * [x] [`permAlone.js`](./src/permAlone.js): No repeats please
 * [x] [`makeFriendlyDates.js`](./src/makeFriendlyDates.js): Friendly Date Ranges
 * [x] [`Person.js`](./src/Person.js): Make a Person
-* [ ] Map the Debris
+* [x] [`orbitalPeriod.js`](./src/orbitalPeriod.js): Map the Debris
 * [ ] Pairwise
 
 # Development
