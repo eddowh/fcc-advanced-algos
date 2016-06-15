@@ -8,7 +8,7 @@
 * [x] [`makeFriendlyDates.js`](./src/makeFriendlyDates.js): Friendly Date Ranges
 * [x] [`Person.js`](./src/Person.js): Make a Person
 * [x] [`orbitalPeriod.js`](./src/orbitalPeriod.js): Map the Debris
-* [ ] Pairwise
+* [x] [`pairwise.js`](./src/pairwise.js): Pairwise
 
 # Development
 
